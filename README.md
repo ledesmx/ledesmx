@@ -1,4 +1,4 @@
-![hi, im alberto ledesma](https://github.com/ledesmx/ledesmx/blob/main/assets/banner.png)
+![hi, im alberto ledesma](https://github.com/ledesmx/ledesmx/blob/main/assets/header-orange.png)
 
 <!-- <p align="center">
  <a href="https://www.linkedin.com/in/alberto-ledesma">
