@@ -25,10 +25,19 @@ Interested in building useful products, improving development workflows, and lea
 <br/>
 
 ### Things I Code With
-
+<a href="https://www.python.org/" target="_blank"> <img align="left" src="https://github.com/ledesmx/README_icons/blob/main/language_and_tools/square/python/python.svg" alt="Python" height ="42px"> </a>
+<a href="https://rust-lang.org/" target="_blank"> <img align="left" src="https://github.com/ledesmx/README_icons/blob/main/language_and_tools/square/rust/rust-bg-white.svg" alt="Rust" height ="42px"> </a>
+<a href="https://kotlinlang.org/" target="_blank"> <img align="left" src="https://github.com/ledesmx/README_icons/blob/main/language_and_tools/square/kotlin/kotlin.svg" alt="Kotlin" height ="42px"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" src="https://github.com/ledesmx/README_icons/blob/main/language_and_tools/square/javascript/javascript.svg" alt="JavaScript" height ="42px"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" src="https://github.com/ledesmx/README_icons/blob/main/language_and_tools/square/typescript/typescript.svg" alt="Typescirpt" height ="42px"></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"> <img align="left" src="https://github.com/ledesmx/README_icons/blob/main/language_and_tools/square/fastapi/fastapi.svg" alt="FastAPI" height ="42px"> </a>
+<a href="https://flutter.dev/" target="_blank"> <img align="left" src="https://github.com/ledesmx/README_icons/blob/main/language_and_tools/square/flutter/flutter.svg" alt="Flutter" height ="42px"> </a>
+<a href="https://astro.build/" target="_blank"> <img align="left" src="https://github.com/ledesmx/README_icons/blob/main/language_and_tools/square/astro/astro.svg" alt="Astro" height ="42px"> </a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" src="https://github.com/ledesmx/README_icons/blob/main/language_and_tools/square/react/react.svg" alt="React" height ="42px"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="left" src="https://github.com/ledesmx/README_icons/blob/main/language_and_tools/square/css/css.svg" alt="css" height="42px"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="left" src="https://github.com/ledesmx/README_icons/blob/main/language_and_tools/square/html/html.svg" alt="html" height="42px"/> </a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="left" src="https://github.com/ledesmx/README_icons/blob/main/language_and_tools/square/html/html.svg" alt="html" height="42px"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="left" src="https://github.com/ledesmx/README_icons/blob/main/language_and_tools/square/css/css.svg" alt="css" height="42px"/> </a>
+<a href="https://developer.android.com/" target="_blank"> <img align="left" src="https://github.com/ledesmx/README_icons/blob/main/language_and_tools/square/android/android.svg" alt="Android" height="42px"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg" align="left" alt="Docker" height='42px'/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="Git" height='42px'/> </a>
+
+
