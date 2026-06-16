@@ -7,7 +7,7 @@
 </p> -->
 
 <!-- <img align="right" src="https://github.com/ledesmx/ledesmx/blob/main/assets/dancing-gopher.gif"> -->
-<img align="right" src="https://github.com/ledesmx/ledesmx/blob/main/assets/rust-ferris-sticker.png">
+<img align="right" width="150" src="https://github.com/ledesmx/ledesmx/blob/main/assets/rust-ferris-sticker.png">
 
 Software Engineer with experience building web applications and translating business requirements into well-designed software solutions.
 
