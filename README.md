@@ -12,7 +12,7 @@ Software Engineer with experience building web applications and translating busi
 
 I enjoy working across the product development process, from requirements analysis and user experience design to implementation and continuous improvement.
 
-<img align="right" width="150" src="https://github.com/ledesmx/ledesmx/blob/main/assets/rust-ferris-sticker.png">
+<img align="right" width="180" src="https://github.com/ledesmx/ledesmx/blob/main/assets/rust-ferris-sticker.png">
 
 ### Currently exploring:
 - 🐍 Python & FastAPI
