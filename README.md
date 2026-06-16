@@ -7,11 +7,12 @@
 </p> -->
 
 <!-- <img align="right" src="https://github.com/ledesmx/ledesmx/blob/main/assets/dancing-gopher.gif"> -->
-<img align="right" width="150" src="https://github.com/ledesmx/ledesmx/blob/main/assets/rust-ferris-sticker.png">
 
 Software Engineer with experience building web applications and translating business requirements into well-designed software solutions.
 
 I enjoy working across the product development process, from requirements analysis and user experience design to implementation and continuous improvement.
+
+<img align="right" width="150" src="https://github.com/ledesmx/ledesmx/blob/main/assets/rust-ferris-sticker.png">
 
 ### Currently exploring:
 - 🐍 Python & FastAPI
