@@ -6,7 +6,8 @@
  </a>
 </p> -->
 
-<img align="right" src="https://github.com/ledesmx/ledesmx/blob/main/assets/dancing-gopher.gif">
+<!-- <img align="right" src="https://github.com/ledesmx/ledesmx/blob/main/assets/dancing-gopher.gif"> -->
+<div align="right" class="tenor-gif-embed" data-postid="19191459" data-share-method="host" data-aspect-ratio="3.01887" data-width="100%"><a href="https://tenor.com/view/rust-lang-ferris-gif-19191459">Rust Lang Ferris GIF</a>from <a href="https://tenor.com/search/rust+lang+ferris-gifs">Rust Lang Ferris GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 Software Engineer with experience building web applications and translating business requirements into well-designed software solutions.
 
