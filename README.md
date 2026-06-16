@@ -1,10 +1,10 @@
 ![hi, im alberto ledesma](https://github.com/ledesmx/ledesmx/blob/main/assets/banner.png)
 
-<p align="center">
+<!-- <p align="center">
  <a href="https://www.linkedin.com/in/alberto-ledesma">
   <img src="https://github.com/ledesmx/ledesmx/blob/main/assets/linkedin.png" width="150">
  </a>
-</p>
+</p> -->
 
 <img align="right" src="https://github.com/ledesmx/ledesmx/blob/main/assets/dancing-gopher.gif">
 
