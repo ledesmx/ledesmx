@@ -8,11 +8,17 @@
 
 <img align="right" src="https://github.com/ledesmx/ledesmx/blob/main/assets/dancing-gopher.gif">
 
-### A Little About Me
-- 👨🏻‍💻 I’m currently working on web development projects.
-- 👀 I’m also interested in Linux, design, music, and game development.
-- 🌱 I’m currently learning Go.
-- 🤝️ I’m open to collaborate on any interesting project.
+Software Engineer with experience building web applications and translating business requirements into well-designed software solutions.
+
+I enjoy working across the product development process, from requirements analysis and user experience design to implementation and continuous improvement.
+
+### Currently exploring:
+- 🐍 Python & FastAPI
+- 🤖 AI-powered applications
+- 🦀 Rust
+- 🏗️ Software Architecture
+
+Interested in building useful products, improving development workflows, and learning new technologies.
 
 <br/>
 
